@@ -25,7 +25,7 @@ envelope.addEventListener("click", () => {
 
 // Logic to make YES btn to grow
 
-// let yesScale = 1;
+ let yesScale = 1;
 
  yesBtn.style.position = "relative"
  yesBtn.style.transformOrigin = "center center";
